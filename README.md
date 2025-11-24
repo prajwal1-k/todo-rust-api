@@ -80,17 +80,17 @@ Follow the steps below to run both correctly.
 cd todo-app/backend
 ```
 
-### **Step 2- Install Dependencies
+### **Step 2- Install Dependencies**
 ```sh
 cargo build
 ```
 
-### **Step 3 - Run the Server
+### **Step 3 - Run the Server**
 ```sh
 cargo run
 ```
 
-### **Step 4 - ✔️ Backend will start at:
+### **Step 4 - ✔️ Backend will start at:**
 ```sh
 http://127.0.0.1:8080
 ```
