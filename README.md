@@ -116,10 +116,3 @@ Here are useful resources used in this project:
   https://serde.rs/
 - **Stack Overflow Disscussions**
 
-
-
-
-
-# todo-rust-api
-# todo-rust-api
-# todo-rust-api
