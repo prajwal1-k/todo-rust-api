@@ -60,7 +60,7 @@ todo-app/
     ├── index.html
     ├── style.css
     └── app.js
-
+```
 ---
 
 ## 🏃‍♂️ How to Run the Project
